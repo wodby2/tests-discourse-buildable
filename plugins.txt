@@ -4,4 +4,3 @@
 # https://github.com/discourse/discourse-bbcode.git
 # https://github.com/example/discourse-my-plugin.git v1.2.0
 https://github.com/discourse/discourse-bbcode.git
-https://github.com/discourse/discourse-solved.git
